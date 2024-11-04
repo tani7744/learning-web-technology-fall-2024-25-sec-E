@@ -1,0 +1,21 @@
+<html>
+
+
+	<head>
+		<title>LAB-2.2-HTLM</title>
+	</head>
+	
+	
+	
+	
+     <body>
+		<form>
+		DateOfBirth:
+            <input type="date">
+    
+			
+			<p><input type="submit" value="submit"></p>
+		</form>
+		
+	 
+	</body>

@@ -1,0 +1,23 @@
+<html>
+
+
+	<head>
+		<title>LAB-2.2-HTLM</title>
+	</head>
+	
+	
+	
+	
+     <body>
+		<form>
+		Gender:
+            <input type="radio" name="gender" value""/>Male
+            <input type="radio" name="gender" value""/>Female
+			<input type="radio" name="gender" value""/>Others
+			
+			
+			<p><input type="submit" value="submit"></p>
+		</form>
+		
+	 
+	</body>

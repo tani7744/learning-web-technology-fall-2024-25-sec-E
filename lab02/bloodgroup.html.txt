@@ -1,0 +1,22 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+ 
+	BG: <select name = " "
+<option value = "group">A+</option>
+<option value = "group">A-</option>
+<option value = "group">B+</option>
+<option value = "group">B-</option>
+<option value = "group">AB+</option>
+<option value = "group">AB-</option>
+ <option value = "group">O+</option>
+<option value = "group">O-</option>
+ 
+		 
+<p><input type="submit" value="submit"></p>
+
+</body>
+</html>
+ 
