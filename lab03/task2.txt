@@ -1,0 +1,7 @@
+<?php
+
+    $x =250;
+    $vat =$x*0.20;
+    
+    echo "Vat : $vat<br>";
+    

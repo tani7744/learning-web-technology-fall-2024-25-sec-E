@@ -1,0 +1,15 @@
+<?php
+
+
+    $x =20;
+  
+	 if ($x %2==0)
+		{
+			echo "$x is Even. <br>";
+		}
+    else
+		{
+			echo "$x is Odd. <br>";
+		}
+    
+    ?>

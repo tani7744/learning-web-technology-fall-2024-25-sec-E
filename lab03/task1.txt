@@ -1,0 +1,10 @@
+<?php
+
+    $x =5;
+    $y =4;
+    $area = $x*$y;
+    $perameter =2*($x+$y);
+    
+    echo "Area of the rectangle : $area<br>";
+    echo "perameter : $perameter<br>";
+    

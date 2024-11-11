@@ -1,0 +1,22 @@
+<?php
+
+    $x =50;
+    $y =100;
+	$z =150;
+    
+    
+	 if ($x>= $y &&  $X>= $z)
+       {
+       		echo "$x is the largest Number. <br>";	
+       }
+     else if($y>=$x && $y>=$z)
+       {
+       		echo "$y is largest Number. <br>";
+       }
+     else
+     	{
+       		 echo "$z is largest Number. <br>";
+        }
+    
+  ?>
+     
